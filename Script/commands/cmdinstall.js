@@ -7,7 +7,7 @@ module.exports.config = {
   name: "install",
   version: "1.1.0",
   hasPermission: 0x2,
-  credits: "SOHAN AHMED",
+  credits: "乛 M𝆠፝֟R ཐི༏ཋྀ JU𝆠፝֟W𝆠፝֟ELꜛཐི༏ཋྀ࿐",
   usePrefix: true,
   description: "Create a new JS file and auto-reload it.",
   commandCategory: "utility",
